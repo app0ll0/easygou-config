@@ -2,4 +2,4 @@ server:
   port: 3000
 spring:
   application:
-    name: plat-service
+    name: zuul
